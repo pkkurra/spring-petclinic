@@ -40,7 +40,10 @@ You could start MySql locally with whatever installer works for your OS, or with
 docker run -e MYSQL_ROOT_PASSWORD=petclinic -e MYSQL_DATABASE=petclinic -p 3306:3306 mysql:5.7.8
 ```
 
+
 ## Working with Petclinic in your IDE
+
+# test dummy change
 
 ### Prerequisites
 The following items should be installed in your system:
